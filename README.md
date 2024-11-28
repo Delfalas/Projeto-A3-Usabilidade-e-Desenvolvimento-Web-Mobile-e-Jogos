@@ -8,13 +8,19 @@
   <p align="center">
     Projeto de lista de tarefas criado para o projeto A3 de Usabilidade e Desenvolvimento WEB Mobile e Jogos. 
     <br />
+    <h2 align="left">Colaboradores: </h2>
+    Vinicius Dantas Alverte Ferreira RA: 823219352 <br />
+    Gabriel Henrique de Santos Sousa RA: 12523218344 <br />
+    Lucas Henrique Rocha Lourenço RA: 323224861 <br />
+    Kevin Ottone Correia RA: 823217640 <br />
+    Carlos Eduardo Lopes Teixeira RA: 12523211856 <br />
   </p>
 </div>
 
-![GitHub do Projeto]()
+![GitHub do Projeto](https://github.com/Delfalas/Projeto-A3-Usabilidade-e-Desenvolvimento-Web-Mobile-e-Jogos)
 
-![GitHub Vinicius Dantas]()
-![GitHub Kevin Ottone]()
+![GitHub Vinicius Dantas](https://github.com/Delfalas)
+![GitHub Kevin Ottone](https://github.com/KevinOttoneCorreia)
 ![GitHub Gabriel Henrique]()
 ![GitHub Carlos Eduardo]()
 ![GitHub Lucas Henrique]()
