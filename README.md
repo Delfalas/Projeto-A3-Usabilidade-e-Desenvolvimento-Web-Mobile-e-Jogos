@@ -29,6 +29,9 @@
 
 [![✅ Video Demo do App](https://img.youtube.com/vi/jneFSb6rP7o&ab/0.jpg)](https://youtu.be/jneFSb6rP7o&ab)
 
+[Documento Projeto A3.pdf](https://github.com/user-attachments/files/17964589/Documento.Projeto.A3.pdf)
+
+
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
