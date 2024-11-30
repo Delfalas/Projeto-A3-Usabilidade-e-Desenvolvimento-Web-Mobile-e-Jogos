@@ -27,7 +27,7 @@
 ![GitHub Carlos Eduardo](https://github.com/duudulopes)
 ![GitHub Lucas Henrique](http://github.com/stacklu)
 
-![Video Demo do App]()
+![Video Demo do App](https://www.youtube.com/watch?v=jneFSb6rP7o&ab_channel=KevinOttone)
 
 
 <!-- ABOUT THE PROJECT -->
